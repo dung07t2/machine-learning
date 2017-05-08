@@ -1,2 +1,2 @@
 # machine-learning
-Machine learning practice
+Machine learning practice by using python and R libraries.
